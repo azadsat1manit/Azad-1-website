@@ -1,16 +1,19 @@
 // grid dummy data
 var dummyData = {
+	
 	"IV-OBDH":"<h1>OBDH</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVOBDH_ArijitMishra_CSE.jpeg\" id=\"picmem\" title=\"member\"><p>Arijit Mishra<p><br>CSE</div></li><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVOBDH_SanchayKanade_ECE.jpeg\" id=\"picmem\" title=\"member\"><p>Sanchay Kanade<p><br>ECE</div></li><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/yashi.JPG\" id=\"picmem\" title=\"member\"><p>Yashasvini Rathore<p><br>CSE</div></li><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/chandan.jpeg\" id=\"picmem\" title=\"member\"><p>Chandan Agrawal<p><br>ECE</div></li>",
 	
 	"IV-TTC":"<h1>TTC</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVTanmay_Bhat.jpeg\" id=\"picmem\" title=\"member\"><p>Tanmay Bhat<p><br>ECE</div></li>",
 
-	"IV-Payload":"<h1>Payload</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVPayload_SparshSingh_Mech.jpg\" id=\"picmem\" title=\"member\"><p>Sparsh Singh<p><br>Mech.</div></li><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVPayload_AnupamAgrawal_CSE.jpeg\" id=\"picmem\" title=\"member\"><p>Anupam Agrawal</p><br>CSE</div></li>",
+	"IV-Payload":"<h1>Payload</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVPayload_SparshSingh_Mech.jpg\" id=\"picmem\" title=\"member\"><p>Sparsh Singh<p><br>Mech.</div></li>",
 	
 	"IV-STM":"<h1>STM</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVPayload_SparshSingh_Mech.jpg\" id=\"picmem\" title=\"member\"><p>Sparsh Singh<p><br>Mech.</div></li>",
 	
 	"IV-EPS":"<h1>EPS</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVEPS_TanayPaltanwale_ECE.jpg\" id=\"picmem\" title=\"member\"><p>Tanay Paltanwale<p><br>ECE</div></li>",
 	
 	"IV-ADCS":"<h1>ADCS</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVADCS_BhavyaMishra_ECE.jpeg\" id=\"picmem\" title=\"member\"><p>Bhavya Mishra<p><br>ECE</div></li>",
+
+	"IV-Operations":"<h1>Operations</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/chandan.jpeg\" id=\"picmem\" title=\"member\"><p>Chandan Agrawal<p><br>ECE</div></li><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IVPayload_AnupamAgrawal_CSE.jpeg\" id=\"picmem\" title=\"member\"><p>Anupam Agrawal</p><br>CSE</div></li>",
 
 	"III-OBDH":"<h1>OBDH</h1><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IIIOBDH_AtikAgrawal_CSE.jpeg\" id=\"picmem\" title=\"member\"><p>Atik Agarwal<p><br>CSE</div></li><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IIIOBDH_ThelukuntlaPhaneendra_ECE.jpeg\" id=\"picmem\" title=\"member\"><p>Thelukuntla Phaneendra<p><br>ECE</div></li><li class=\"product\"><div class=\"member member--picture\"><img src=\"members/IIIOBDH_AkshayKumarMishra_CSE.jpeg\" id=\"picmem\" title=\"member\"><p>Ayush Kumar Mishra<p><br>CSE</div></li>",
 	
